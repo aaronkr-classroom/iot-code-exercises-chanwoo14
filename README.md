@@ -9,5 +9,7 @@ Repository for code and exercises
 
 
 9 link DHT22: https://wokwi.com/projects/463687083857512449
+
 9 BH1750 : https://wokwi.com/projects/463685613246222337
+
 9 DS18D20 : https://wokwi.com/projects/463687160569273345
